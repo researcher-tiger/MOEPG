@@ -15,4 +15,4 @@ ASSISTments0910: https://sites.google.com/site/assistmentsdata/home/2009-2010-as
 Statics2011: https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=507
 
 ## Training
-For example, you can use python train.py --dataset assistments0910 --epsilon 0.2 to train MOEPG model on ASSISTments0910 dataset.
+For example, you can use python train.py --dataset statics2011 --epsilon 0.1 to train MOEPG model on Statics2011 dataset.
