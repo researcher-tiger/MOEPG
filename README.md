@@ -1,5 +1,5 @@
 # Reinforcement Learning Guided Multi-Objective Exam Paper Generation
-MOEPG code for SDM 2022
+MOEPG code for SDM 2023
 
 ## Prerequisites
 
