@@ -6,6 +6,8 @@ MOEPG code for SDM 2023
 Our experimental code is implemented in Python 3.7.5 using Pytorch 1.12.0.
 
 ## Dataset
+$\bullet$ link of datasets is: https://github.com/researcher-tiger/MOEPG/releases
+
 $\bullet$ Original links of datasets are:
 
 ASSISTments0910: https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data
